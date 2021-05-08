@@ -1,6 +1,7 @@
 # Hello-World
 My First Respository
+## This is a Markdown File
 Singing is my favorite hobby.
-I a dog mom plus 3 kiddos
-Total nerd and extra goofy
-I never give up!
+I'm a nerd and super goofy.
+I'm a dog mom with 3 kiddos as well!
+I refuse to quit or give up on anything
